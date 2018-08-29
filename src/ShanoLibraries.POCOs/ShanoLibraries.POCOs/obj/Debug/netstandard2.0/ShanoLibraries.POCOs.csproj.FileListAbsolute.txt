@@ -1,0 +1,9 @@
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\bin\Debug\netstandard2.0\ShanoLibraries.POCOs.deps.json
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\bin\Debug\netstandard2.0\ShanoLibraries.POCOs.dll
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\bin\Debug\netstandard2.0\ShanoLibraries.POCOs.pdb
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\obj\Debug\netstandard2.0\ShanoLibraries.POCOs.csprojAssemblyReference.cache
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\obj\Debug\netstandard2.0\ShanoLibraries.POCOs.csproj.CoreCompileInputs.cache
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\obj\Debug\netstandard2.0\ShanoLibraries.POCOs.AssemblyInfoInputs.cache
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\obj\Debug\netstandard2.0\ShanoLibraries.POCOs.AssemblyInfo.cs
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\obj\Debug\netstandard2.0\ShanoLibraries.POCOs.dll
+C:\Repos\shano-pocos\src\ShanoLibraries.POCOs\ShanoLibraries.POCOs\obj\Debug\netstandard2.0\ShanoLibraries.POCOs.pdb
